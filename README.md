@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Mirwais-Jafari
 - 👀 I’m interested in being challenged
 - 🌱 I’m currently learning _Nextjs_
-- 📫 How to reach me : mirwais.jafari760@gmail.com
+- 📫 How to reach me: mirwais.jafari123@gmail.com
 
 ### Languages & Tools
 
